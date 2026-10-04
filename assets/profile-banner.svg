@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Paweł Drojecki — Frontend / Fullstack / Product</title>
+  <desc id="desc">A dark banner with yellow accents and concentric paths. Small steps. Useful products.</desc>
+  <rect width="1200" height="340" rx="20" fill="#10151c"/>
+  <path d="M0 316H1200" stroke="#FACD2D" stroke-width="4"/>
+  <g fill="none" stroke="#26313d" stroke-width="2">
+    <path d="M56 50H1144M56 290H1144"/>
+    <path d="M880 50V290M1144 50V290"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="93" fill="#FACD2D" font-size="15" font-weight="700" letter-spacing="3">FRONTEND / FULLSTACK / PRODUCT</text>
+    <text x="60" y="166" fill="#f5f7fa" font-size="62" font-weight="700" letter-spacing="-2">Paweł Drojecki</text>
+    <text x="64" y="212" fill="#b8c1cc" font-size="24">Small steps. Useful products.</text>
+    <text x="64" y="270" fill="#7f8c9b" font-size="14" letter-spacing="2">SNIKERSO · POZNAŃ, POLAND</text>
+  </g>
+  <g fill="none" stroke-linecap="round">
+    <path d="M1000 76a94 94 0 1 1-94 94" stroke="#34414f" stroke-width="12"/>
+    <path d="M1000 103a67 67 0 1 1-67 67" stroke="#FACD2D" stroke-width="12"/>
+    <path d="M1000 130a40 40 0 1 1-40 40" stroke="#f5f7fa" stroke-width="12"/>
+    <path d="M960 170v100" stroke="#f5f7fa" stroke-width="12"/>
+    <path d="M933 170v63" stroke="#FACD2D" stroke-width="12"/>
+    <path d="M906 170v36" stroke="#34414f" stroke-width="12"/>
+  </g>
+  <circle cx="1000" cy="76" r="6" fill="#FACD2D"/>
+</svg>
